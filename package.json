@@ -1,0 +1,27 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "study repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleTolya/nodetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UncleTolya/nodetest/issues"
+  },
+  "homepage": "https://github.com/UncleTolya/nodetest#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
