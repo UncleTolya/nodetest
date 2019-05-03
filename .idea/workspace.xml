@@ -1,33 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/app/testlushenko/testslider/slider.ts" line="0" />
+    <bookmark url="file://$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.ts" line="0" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7221657-b9ac-4d0c-9835-45818a0d91e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nodetest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/calclushenko/calc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/calclushenko/calc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/filelushenko/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/filelushenko/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/game1lushenko/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/game1lushenko/game.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/Person.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/Student.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/calc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/calc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/greeter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/greeter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/html.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/test1/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/testlushenko/testslider/slider.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/testlushenko/testslider/slider.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/testlushenko/testslider/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/classes/classestest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/classes/classestest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/cssgenerator/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/eventmouse/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/oop/mas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/oop/mas.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/oop/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/photocompare/photocap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/photocompare/photocap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/photocompare/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/radiobutton/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/test/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/test/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/test/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/timer/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/timer/timer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/timer/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/testlushenko/timer/timer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/calclushenko/calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/calclushenko/calc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/calclushenko/calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/calclushenko/calc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/calclushenko/calc.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/calclushenko/calc.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/filelushenko/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/filelushenko/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/filelushenko/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/filelushenko/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/filelushenko/1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/filelushenko/1.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/game1lushenko/game.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/game1lushenko/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/game1lushenko/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/game1lushenko/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/game1lushenko/game.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/game1lushenko/game.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/slider/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/testlushenko/testslider/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/testlushenko/sliderlushenko/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,14 +62,14 @@
     <favorites_list name="nodetest" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.33771354">
+    <splitter split-orientation="horizontal" split-proportion="0.37698233">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/slider.html">
+            <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/timer.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="352">
-                  <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+                <state relative-caret-position="242">
+                  <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -57,14 +77,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.5">
+        <splitter split-orientation="horizontal" split-proportion="0.63439304">
           <split-first>
             <leaf>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/slider.ts">
+                <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/timer.ts">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="132">
-                      <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+                    <state relative-caret-position="66">
+                      <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
                     </state>
                   </provider>
                 </entry>
@@ -74,10 +94,10 @@
           <split-second>
             <leaf>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/style.css">
+                <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/style.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="101">
-                      <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+                    <state relative-caret-position="88">
+                      <caret line="4" column="1" selection-start-line="4" selection-end-line="4" selection-end-column="1" />
                     </state>
                   </provider>
                 </entry>
@@ -103,15 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.ts" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app/calc.js" />
-        <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/app/Person.ts" />
-        <option value="$PROJECT_DIR$/app/greeter.ts" />
-        <option value="$PROJECT_DIR$/app/Student.ts" />
-        <option value="$PROJECT_DIR$/app/html.d.ts" />
         <option value="$PROJECT_DIR$/app/greeter.html" />
         <option value="$PROJECT_DIR$/app/index.ts" />
         <option value="$PROJECT_DIR$/app/file.html" />
@@ -130,13 +141,46 @@
         <option value="$PROJECT_DIR$/app/testlushenko/slider.html" />
         <option value="$PROJECT_DIR$/app/testlushenko/slider.ts" />
         <option value="$PROJECT_DIR$/app/testlushenko/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/testslider/slider.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/testslider/slider.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/classes/classestest.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/classes/classestest.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/Ranger" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/Ranger.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/GeneratorElement.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/radiobutton/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/filelushenko/1.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/oop/oop.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/oop/oop.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/oop/mas.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/oop/mas.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/oop/mas.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/eventmouse/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/test/test.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/test/test.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/test/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/photocompare/test.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/photocompare/photocap.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/photocompare/photocap.ts" />
+        <option value="$PROJECT_DIR$/app/testlushenko/photocompare/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/timer/timer.html" />
+        <option value="$PROJECT_DIR$/app/testlushenko/timer/style.css" />
+        <option value="$PROJECT_DIR$/app/testlushenko/timer/timer.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="5" />
+    <option name="x" value="2" />
     <option name="y" value="659" />
-    <option name="width" value="2473" />
+    <option name="width" value="2488" />
     <option name="height" value="781" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -147,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,12 +214,13 @@
               <item name="nodetest" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="testlushenko" type="462c0819:PsiDirectoryNode" />
-              <item name="testslider" type="462c0819:PsiDirectoryNode" />
+              <item name="timer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,14 +229,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.1.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/testlushenko" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/testlushenko" />
+      <recent name="$PROJECT_DIR$/app/testlushenko/test" />
+      <recent name="$PROJECT_DIR$/app/testlushenko/eventmouse" />
+      <recent name="$PROJECT_DIR$/app/testlushenko/oop" />
+      <recent name="$PROJECT_DIR$/app/testlushenko/cssgenerator" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/testlushenko" />
       <recent name="$PROJECT_DIR$/app/testlushenko/testslider" />
       <recent name="$PROJECT_DIR$/app/calclushenko" />
       <recent name="$PROJECT_DIR$/app/test1" />
@@ -210,36 +262,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.slider.html">
-    <configuration name="1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/filelushenko/1.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.timer.html">
+    <configuration name="mas.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/oop/mas.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="calc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/calclushenko/calc.html" useBuiltInWebServerPort="true">
+    <configuration name="mouse.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/eventmouse/mouse.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="game.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/game1lushenko/game.html" useBuiltInWebServerPort="true">
+    <configuration name="photocap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/photocompare/photocap.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="slider.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/testslider/slider.html" useBuiltInWebServerPort="true">
+    <configuration name="radiobutton.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/radiobutton/radiobutton.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="timer.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nodetest/app/testlushenko/timer/timer.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.slider.html" />
-        <item itemvalue="JavaScript Debug.game.html" />
-        <item itemvalue="JavaScript Debug.1.html" />
-        <item itemvalue="JavaScript Debug.calc.html" />
-        <item itemvalue="npm.start" />
+        <item itemvalue="JavaScript Debug.timer.html" />
+        <item itemvalue="JavaScript Debug.photocap.html" />
+        <item itemvalue="JavaScript Debug.mouse.html" />
+        <item itemvalue="JavaScript Debug.mas.html" />
+        <item itemvalue="JavaScript Debug.radiobutton.html" />
       </list>
     </recent_temporary>
   </component>
@@ -257,11 +302,12 @@
       <workItem from="1556706569907" duration="6446000" />
       <workItem from="1556725412773" duration="106000" />
       <workItem from="1556736569413" duration="9141000" />
+      <workItem from="1556832291008" duration="23801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16353000" />
+    <option name="totallyTimeSpent" value="40154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -273,24 +319,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="626" width="2549" height="725" extended-state="0" />
+    <frame x="2" y="659" width="2488" height="781" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5727788" visible="true" weight="0.09691456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5709402" visible="true" weight="0.12606405" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.2489301" />
       <window_info id="npm" order="2" sideWeight="0.3232498" side_tool="true" weight="0.2489301" />
-      <window_info id="Favorites" order="3" sideWeight="0.42722118" side_tool="true" visible="true" weight="0.09691456" />
+      <window_info id="Favorites" order="3" sideWeight="0.42905983" side_tool="true" weight="0.099310905" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32929993" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3280116" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3284356" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39912918" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3284356" />
-      <window_info anchor="bottom" id="TypeScript" order="9" visible="true" weight="0.164297" />
+      <window_info anchor="bottom" id="TypeScript" order="9" visible="true" weight="0.1509434" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3267974" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32656023" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,67 +347,16 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/greeter.js" />
-        <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/app/Student.js" />
-        <option value="$PROJECT_DIR$/app/calc.js" />
-        <option value="$PROJECT_DIR$/app/Person.js" />
-        <option value="$PROJECT_DIR$/app/calclushenko/calc.js" />
-        <option value="$PROJECT_DIR$/app/filelushenko/1.js" />
-        <option value="$PROJECT_DIR$/app/game1lushenko/game.js" />
-        <option value="$PROJECT_DIR$/app/testlushenko/slider.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/classes/classestest.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/test/test.js" />
+        <option value="$PROJECT_DIR$/app/testlushenko/photocompare/photocap.js" />
       </list>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/packaje.json" />
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test1/greeter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-649" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test1/Person.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test1/Student.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test1/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/test1/greeter.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -420,73 +416,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/calclushenko/calc.js">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/calclushenko/calc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/calclushenko/calc.html">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/calclushenko/calc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/calclushenko/calc.ts">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/calclushenko/calc.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/filelushenko/1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/game1lushenko/game.html">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/game1lushenko/game.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/filelushenko/1.html">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/filelushenko/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/game1lushenko/game.ts">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/slider.html">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/classes/classestest.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/classes/classestest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="22">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/slider.ts">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/sliderlushenko/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/GeneratorElement.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/Ranger.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/cssgenerator/cssgenerator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/game1lushenko/game.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/sliderlushenko/slider.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/classes/classestest.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/testlushenko/testslider/style.css">
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="286">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/radiobutton/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/radiobutton/radiobutton.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/filelushenko/1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/oop/mas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/oop/mas.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/oop/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/oop/mas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/test/test.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/test/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/test/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/eventmouse/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/eventmouse/mouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/photocompare/photo/Ez-yEed4bWU.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/photocompare/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/photocompare/photocap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/photocompare/photocap.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/timer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" selection-start-line="4" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/timer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/testlushenko/timer/timer.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
         </state>
       </provider>
     </entry>

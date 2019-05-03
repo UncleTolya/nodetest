@@ -1,0 +1,13 @@
+#rectangle {
+    width: 150px;
+    height: 150px;
+    background: orange;
+    margin: 50px;
+}
+
+#out {
+    width: 250px;
+    height: 150px;
+    margin: 20px;
+    font-size: 15px;
+}
